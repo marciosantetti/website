@@ -4,44 +4,42 @@ authors:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: Ph.D., Economics
+    institution: University of Utah
+    year: 2021 (expected)
+  - course: M.A., Development Economics
+    institution: Pontificial Catholic University of Rio Grande do Sul (PUCRS)
+    year: 2015
+  - course: B.A., Economics
+    institution: University of the Sinos River Valley (UNISINOS)
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-email: ""
+email: "santetti@gmail.com"
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Economic Growth, Technical Change, and the Environment
+- Business Cycles and Income Distribution
+- Time-Series Econometrics
+- History of Economic Thought
 organizations:
-- name: Stanford University
-  url: ""
-role: Professor of Artificial Intelligence
+- name: The University of Utah
+  url: "https://www.utah.edu/"
+role: Ph.D. Candidate
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: 'mailto:santetti@gmail.com'
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?hl=en&user=bmhnc58AAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/marciosantetti
 superuser: true
-title: Nelson Bighetti
+title: Marcio Santetti
 user_groups:
 - Researchers
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Marcio Santetti is a Ph.D. Candidate at the Department of Economics, The University of Utah.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+
