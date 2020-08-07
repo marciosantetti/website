@@ -1,0 +1,12 @@
+---
+title: "Hi there"
+---
+
+Hi, I'm Alison Hill!
+
+Find me at...
+
+[`r icon::fa("twitter")` apreshill](http://twitter.com/apreshill)  
+[`r icon::fa("github")` apreshill](http://github.com/apreshill)  
+[`r icon::fa("link")` alison.rbind.io](https://alison.rbind.io)  
+[`r icon::fa("paper-plane")` alison@rstudio.com](mailto:alison@rstudio.com)

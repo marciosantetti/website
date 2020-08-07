@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests.
 education:
   courses:
   - course: Ph.D., Economics
@@ -27,17 +27,22 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:santetti@gmail.com'
-- icon: google-scholar
-  icon_pack: ai
+- icon: google
+  icon_pack: fab
   link: https://scholar.google.com/citations?hl=en&user=bmhnc58AAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/marciosantetti
+- icon: researchgate
+  icon_pack: fab
+  link: https://www.researchgate.net/profile/Marcio_Santetti
+  
 superuser: true
 title: Marcio Santetti
 user_groups:
 - Researchers
 - Visitors
+
 ---
 
 Marcio Santetti is a Ph.D. Candidate at the Department of Economics, The University of Utah.
