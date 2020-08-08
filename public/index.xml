@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Marcio Santetti</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Marcio Santetti</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Marcio Santetti .&#39;.</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu36991c1dce3b2944b87810024dff250c_14600_512x512_fill_lanczos_center_2.png</url>
       <title>Marcio Santetti</title>
@@ -772,21 +772,43 @@ Three
     </item>
     
     <item>
-      <title>Teaching Philosophy &amp; Experience</title>
+      <title>Published Articles</title>
+      <link>/published_articles/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/published_articles/</guid>
+      <description>
+
+
+&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
+&lt;li&gt;&lt;p&gt;“&lt;a href=&#34;https://repositorio.cepal.org/bitstream/handle/11362/44317/1/RVI125_Morrone.pdf&#34;&gt;Technical progress in GDP production and CO2 emissions in Brazil: 1970–2012&lt;/a&gt;”, with Adalmir
+Marquetti and Henrique Morrone, 2018, &lt;strong&gt;&lt;em&gt;Cepal Review&lt;/em&gt;&lt;/strong&gt; (August), 125: 119–132.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;“&lt;a href=&#34;https://periodicos.ufsm.br/index.php/eed/article/viewFile/7430/pdf&#34;&gt;Exports evolution in the Southern region and in the Brazilian economy over the 2000s: Competitiveness and technological profile&lt;/a&gt;”. [In Portuguese: “Evolução das Exportações da Região Sul e do Brasil nos Anos 2000: Competitividade e perfil tecnológico”], with André Filipe Zago de Azevedo, 2013, &lt;strong&gt;&lt;em&gt;Economia e Desenvolvimento&lt;/em&gt;&lt;/strong&gt;, 25(1): 46–63.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr /&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Research Statement</title>
+      <link>/research_statement/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/research_statement/</guid>
+      <description>
+
+
+&lt;p&gt;Download my Research Statement here.&lt;/p&gt;
+&lt;hr /&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Teaching Experience</title>
       <link>/teaching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/teaching/</guid>
       <description>
 
 
-
-&lt;div id=&#34;teaching-philosophy-statement&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Teaching Philosophy Statement&lt;/h2&gt;
-&lt;p&gt;Download my Teaching Philosophy Statement.&lt;/p&gt;
-
-&lt;/div&gt;
-&lt;div id=&#34;teaching-experience&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Teaching Experience&lt;/h2&gt;
 &lt;div id=&#34;the-university-of-utah&#34; class=&#34;section level3&#34;&gt;
 &lt;h3&gt;The University of Utah&lt;/h3&gt;
 
@@ -794,7 +816,7 @@ Three
 &lt;ul&gt;
 &lt;li&gt;ECON 4650-090: Principles of Econometrics (online) – Fall 2020&lt;/li&gt;
 &lt;li&gt;ECON 4650-001: Principles of Econometrics – Summer 2020, Spring 2020, Summer 2019&lt;/li&gt;
-&lt;li&gt;ECON 3640: Probability &amp;amp; Statistical Inference (online) – Fall 2019&lt;/li&gt;
+&lt;li&gt;ECON 3640-090: Probability &amp;amp; Statistical Inference (online) – Fall 2019&lt;/li&gt;
 &lt;li&gt;ECON 3640-002: Probability &amp;amp; Statistical Inference – Spring 2019, Fall 2018&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -807,7 +829,34 @@ Three
 &lt;li&gt;ECON 2020: Principles of Macroeconomics – Fall 2016, Spring 2017&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Teaching Philosophy</title>
+      <link>/teaching_statement/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/teaching_statement/</guid>
+      <description>
+
+
+&lt;p&gt;Download my Teaching Philosophy Statement here.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Working Papers</title>
+      <link>/working_papers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/working_papers/</guid>
+      <description>
+
+
+&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
+&lt;li&gt;“&lt;a href=&#34;https://economics.utah.edu/research/publications/2020_02.pdf&#34;&gt;The U.S. labor share of income: What shocks matter?&lt;/a&gt;”, with Ivan Mendieta-Muñoz, Codrina
+Rada, and Rudiger von Arnim, 2020, &lt;strong&gt;&lt;em&gt;The University of Utah, Department of Economics Working Paper Series&lt;/em&gt;&lt;/strong&gt;, No. 2020-02.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr /&gt;
 </description>
     </item>
     

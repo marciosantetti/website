@@ -190,7 +190,23 @@
   </url>
   
   <url>
+    <loc>/published_articles/</loc>
+  </url>
+  
+  <url>
+    <loc>/research_statement/</loc>
+  </url>
+  
+  <url>
     <loc>/teaching/</loc>
+  </url>
+  
+  <url>
+    <loc>/teaching_statement/</loc>
+  </url>
+  
+  <url>
+    <loc>/working_papers/</loc>
   </url>
   
 </urlset>
