@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-bio: My research interests.
+bio: "Thanks for stopping by!"
 education:
   courses:
   - course: Ph.D., Economics

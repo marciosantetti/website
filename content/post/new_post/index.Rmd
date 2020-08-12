@@ -1,0 +1,27 @@
+---
+title: First Post
+author: Marcio Santetti
+date: '2019-06-11'
+slug: []
+categories: [R]
+tags: [R, coding]
+subtitle: ''
+summary: 'Testing this thing out'
+authors:
+- admin
+lastmod: '2020-08-10'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+
+Some post.
+
+```{r}
+plot(1)
+```
+

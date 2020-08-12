@@ -63,11 +63,16 @@
   name = "CV"
   url = "files/new_cv.pdf"
   weight = 50
+  
+[[main]]
+  name = "Blog"
+  url = "blog/"
+  weight = 60
 
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 60
+  weight = 70
   
   
 

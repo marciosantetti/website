@@ -6,7 +6,7 @@ title: "Teaching Experience"
 
 ### The University of Utah
 
-\vspace{4cm}
+<br>
 
 **Full Instructor**
 
@@ -16,7 +16,7 @@ title: "Teaching Experience"
 - ECON 3640-002: Probability \& Statistical Inference -- Spring 2019, Fall 2018
 
 
-\vspace{4cm}
+<br>
 
 **Teaching Assistant**
 
@@ -27,6 +27,8 @@ title: "Teaching Experience"
 - ECON 2010: Principles of Microeconomics -- Fall 2016, Spring 2017, Fall 2017
 - ECON 2020: Principles of Macroeconomics -- Fall 2016, Spring 2017
 
+
+---
 
 
 
