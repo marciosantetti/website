@@ -56,6 +56,8 @@
   
     
     
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
+    
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0-1/css/all.min.css" integrity="sha256-4w9DunooKSr3MFXHXWyFER38WmPdm361bQS/2KUWZbU=" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
 
@@ -427,18 +429,22 @@
         
 
         
-        <li class="nav-item dropdown">
-          <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true"><span>Publications</span><span class="caret"></span>
-          </a>
-          <div class="dropdown-menu">
-            
-              <a class="dropdown-item" href="/published_articles"><i class="fas fa-pen-nib" style="color: #fff;"></i> <span>Published Articles</span></a>
-            
-              <a class="dropdown-item" href="/working_papers"><i class="fas fa-pencil-alt" style="color: #fff;"></i> <span>Working Papers</span></a>
-            
-              <a class="dropdown-item" href="/research_statement"><i class="fas fa-search" style="color: #fff;"></i> <span>Research Statement</span></a>
-            
-          </div>
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/research/"><span>Research</span></a>
         </li>
 
         
@@ -450,9 +456,9 @@
           </a>
           <div class="dropdown-menu">
             
-              <a class="dropdown-item" href="/teaching"><i class="fas fa-chalkboard" style="color: #fff;"></i> <span>Teaching Experience</span></a>
+              <a class="dropdown-item" href="/philosophy/"><i class="fas fa-archive" style="color: #fff;"></i> <span>Teaching Philosophy & Evaluations</span></a>
             
-              <a class="dropdown-item" href="/teaching_statement"><i class="fas fa-archive" style="color: #fff;"></i> <span>Teaching Philosophy</span></a>
+              <a class="dropdown-item" href="/teaching/"><i class="fas fa-chalkboard" style="color: #fff;"></i> <span>Teaching Experience & Syllabi</span></a>
             
           </div>
         </li>
@@ -472,16 +478,9 @@
         
         
         
-          
-          
-          
-            
-          
-          
-        
 
         <li class="nav-item">
-          <a class="nav-link " href="/#jmp"><span>Job Market Paper</span></a>
+          <a class="nav-link " href="/jmp/"><span>Job Market Paper</span></a>
         </li>
 
         
@@ -492,8 +491,6 @@
         
         
         
-          
-        
 
         
         
@@ -503,7 +500,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/files/new_cv.pdf"><span>CV</span></a>
+          <a class="nav-link " href="/cv/"><span>CV</span></a>
         </li>
 
         
@@ -702,11 +699,20 @@
 
     <div class="article-style">
       
+<script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>
+<script src="/rmarkdown-libs/plotly-binding/plotly.js"></script>
+<script src="/rmarkdown-libs/typedarray/typedarray.min.js"></script>
+<script src="/rmarkdown-libs/jquery/jquery.min.js"></script>
+<link href="/rmarkdown-libs/crosstalk/css/crosstalk.css" rel="stylesheet" />
+<script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
+<link href="/rmarkdown-libs/plotly-htmlwidgets-css/plotly-htmlwidgets.css" rel="stylesheet" />
+<script src="/rmarkdown-libs/plotly-main/plotly-latest.min.js"></script>
 
 
-<p>Some post.</p>
-<pre class="r"><code>plot(1)</code></pre>
-<p><img src="/post/new_post/index_files/figure-html/unnamed-chunk-1-1.png" width="672" /></p>
+<p>A post.</p>
+<pre class="r"><code>ggplotly(g)</code></pre>
+<div id="htmlwidget-1" style="width:672px;height:480px;" class="plotly html-widget"></div>
+<script type="application/json" data-for="htmlwidget-1">{"x":{"data":[{"orientation":"h","width":[0.405,0.405,0.405,0.405,0.404999999999999,0.404999999999999],"base":[0,0,0,0,0,0],"x":[5.31,5.2,5.16,5.21,5.31,5.16],"y":[0.775,1.775,2.775,3.775,4.775,5.775],"text":["term: afall18<br />eval: 5.31<br />id: ECON Average","term: bspring19<br />eval: 5.20<br />id: ECON Average","term: csummer19<br />eval: 5.16<br />id: ECON Average","term: dfall19<br />eval: 5.21<br />id: ECON Average","term: espring20<br />eval: 5.31<br />id: ECON Average","term: fsummer20<br />eval: 5.16<br />id: ECON Average"],"type":"bar","marker":{"autocolorscale":false,"color":"rgba(101,173,194,1)","line":{"width":1.88976377952756,"color":"rgba(0,0,0,1)"}},"name":"ECON Average","legendgroup":"ECON Average","showlegend":true,"xaxis":"x","yaxis":"y","hoverinfo":"text","frame":null},{"orientation":"h","width":[0.405,0.405,0.405,0.404999999999999,0.404999999999999,0.404999999999999],"base":[0,0,0,0,0,0],"x":[5.73,5.96,5.35,5.47,5.77,5.49],"y":[1.225,2.225,3.225,4.225,5.225,6.225],"text":["term: afall18<br />eval: 5.73<br />id: Santetti","term: bspring19<br />eval: 5.96<br />id: Santetti","term: csummer19<br />eval: 5.35<br />id: Santetti","term: dfall19<br />eval: 5.47<br />id: Santetti","term: espring20<br />eval: 5.77<br />id: Santetti","term: fsummer20<br />eval: 5.49<br />id: Santetti"],"type":"bar","marker":{"autocolorscale":false,"color":"rgba(35,59,67,1)","line":{"width":1.88976377952756,"color":"rgba(0,0,0,1)"}},"name":"Santetti","legendgroup":"Santetti","showlegend":true,"xaxis":"x","yaxis":"y","hoverinfo":"text","frame":null}],"layout":{"margin":{"t":43.7625570776256,"r":7.30593607305936,"b":25.5707762557078,"l":75.2511415525114},"font":{"color":"rgba(0,0,0,1)","family":"","size":14.6118721461187},"title":{"text":"Student Evaluations - Instructor Questions","font":{"color":"rgba(0,0,0,1)","family":"","size":17.5342465753425},"x":0,"xref":"paper"},"xaxis":{"domain":[0,1],"automargin":true,"type":"linear","autorange":false,"range":[-0.298,6.258],"tickmode":"array","ticktext":["0","2","4","6"],"tickvals":[0,2,4,6],"categoryorder":"array","categoryarray":["0","2","4","6"],"nticks":null,"ticks":"","tickcolor":null,"ticklen":3.65296803652968,"tickwidth":0,"showticklabels":true,"tickfont":{"color":"rgba(77,77,77,1)","family":"","size":11.689497716895},"tickangle":-0,"showline":false,"linecolor":null,"linewidth":0,"showgrid":true,"gridcolor":"rgba(235,235,235,1)","gridwidth":0.66417600664176,"zeroline":false,"anchor":"y","title":{"text":"","font":{"color":"rgba(0,0,0,1)","family":"","size":14.6118721461187}},"hoverformat":".2f"},"yaxis":{"domain":[0,1],"automargin":true,"type":"linear","autorange":false,"range":[0.4,6.6],"tickmode":"array","ticktext":["Fall 2018","Spring 2019","Summer 2019","Fall 2019","Spring 2020","Summer 2020"],"tickvals":[1,2,3,4,5,6],"categoryorder":"array","categoryarray":["Fall 2018","Spring 2019","Summer 2019","Fall 2019","Spring 2020","Summer 2020"],"nticks":null,"ticks":"","tickcolor":null,"ticklen":3.65296803652968,"tickwidth":0,"showticklabels":true,"tickfont":{"color":"rgba(77,77,77,1)","family":"","size":11.689497716895},"tickangle":-0,"showline":false,"linecolor":null,"linewidth":0,"showgrid":true,"gridcolor":"rgba(235,235,235,1)","gridwidth":0.66417600664176,"zeroline":false,"anchor":"x","title":{"text":"","font":{"color":"rgba(0,0,0,1)","family":"","size":14.6118721461187}},"hoverformat":".2f"},"shapes":[{"type":"rect","fillcolor":null,"line":{"color":null,"width":0,"linetype":[]},"yref":"paper","xref":"paper","x0":0,"x1":1,"y0":0,"y1":1}],"showlegend":true,"legend":{"bgcolor":null,"bordercolor":null,"borderwidth":0,"font":{"color":"rgba(0,0,0,1)","family":"","size":11.689497716895},"y":0.96751968503937},"hovermode":"closest","barmode":"relative"},"config":{"doubleClick":"reset","showSendToCloud":false},"source":"A","attrs":{"4448615f2e19":{"x":{},"y":{},"fill":{},"type":"bar"}},"cur_data":"4448615f2e19","visdat":{"4448615f2e19":["function (y) ","x"]},"highlight":{"on":"plotly_click","persistent":false,"dynamic":false,"selectize":false,"opacityDim":0.2,"selected":{"opacity":1},"debounce":0},"shinyEvents":["plotly_hover","plotly_click","plotly_selected","plotly_relayout","plotly_brushed","plotly_brushing","plotly_clickannotation","plotly_doubleclick","plotly_deselect","plotly_afterplot","plotly_sunburstclick"],"base_url":"https://plot.ly"},"evals":[],"jsHooks":[]}</script>
 
     </div>
 
@@ -841,7 +847,7 @@
     <div class="media author-card content-widget-hr">
       
         
-        <img class="avatar mr-3 avatar-circle" src="/authors/admin/avatar_hu6427aa506f4b0867d8609b471b07c7a0_144487_270x270_fill_q90_lanczos_center.jpg" alt="Marcio Santetti">
+        <img class="avatar mr-3 avatar-circle" src="/authors/admin/avatar_hu9d84ee83bce976bf73a078da50fa35d5_157991_270x270_fill_q90_lanczos_center.jpg" alt="Marcio Santetti">
       
 
       <div class="media-body">
@@ -868,8 +874,6 @@
     
     
     
-      
-    
     
     
     
@@ -878,7 +882,7 @@
     
     <li>
       <a href="https://scholar.google.com/citations?hl=en&amp;user=bmhnc58AAAAJ" target="_blank" rel="noopener">
-        <i class="fab fa-google"></i>
+        <i class="ai ai-google-scholar"></i>
       </a>
     </li>
   
@@ -902,8 +906,6 @@
     
     
     
-      
-    
     
     
     
@@ -912,7 +914,7 @@
     
     <li>
       <a href="https://www.researchgate.net/profile/Marcio_Santetti" target="_blank" rel="noopener">
-        <i class="fab fa-researchgate"></i>
+        <i class="ai ai-researchgate"></i>
       </a>
     </li>
   

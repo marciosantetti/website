@@ -19,9 +19,50 @@ projects: []
 ---
 
 
-Some post.
+```{r, echo=FALSE, purl=FALSE, results='hide', message = FALSE}
+library(ggplot2)
+library(plotly)
+library(ggthemr)
+library(dplyr)
+library(htmlwidgets)
 
-```{r}
-plot(1)
 ```
+
+
+
+A post.
+
+
+```{r, echo=FALSE, message=FALSE, warning=FALSE}
+
+ggthemr('fresh')
+
+
+term <- c('afall18', 'afall18', 'bspring19', 'bspring19', 'csummer19', 'csummer19', 'dfall19', 'dfall19', 
+          'espring20', 'espring20', 'fsummer20', 'fsummer20')
+
+eval <- c(5.73, 5.31, 5.96, 5.20, 5.35, 5.16, 5.47, 5.21, 5.77, 5.31, 5.49, 5.16)
+
+id <- rep(c('Santetti', 'ECON Average'), 6)
+
+
+df <- data.frame(term, eval, id)
+
+
+g <- ggplot(data=df, aes(x=term, y=eval, fill=id)) +
+  geom_bar(stat="identity", color="black", position=position_dodge2())+
+  theme_minimal() + 
+  scale_x_discrete(labels=c('fsummer20'='Summer 2020', 'espring20' = 'Spring 2020',
+                            'dfall19' = 'Fall 2019', 'csummer19' = 'Summer 2019',
+                            'bspring19' = 'Spring 2019', 'afall18' = 'Fall 2018')) + 
+  labs(y='', x='', fill='', title='Student Evaluations - Instructor Questions') +
+  coord_flip() 
+
+```
+
+
+```{r, results='show'}
+ggplotly(g)
+```
+
 

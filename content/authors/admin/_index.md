@@ -27,14 +27,14 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:santetti@gmail.com'
-- icon: google
-  icon_pack: fab
+- icon: google-scholar
+  icon_pack: ai
   link: https://scholar.google.com/citations?hl=en&user=bmhnc58AAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/marciosantetti
 - icon: researchgate
-  icon_pack: fab
+  icon_pack: ai
   link: https://www.researchgate.net/profile/Marcio_Santetti
   
 superuser: true
@@ -45,6 +45,10 @@ user_groups:
 
 ---
 
-Marcio Santetti is a Ph.D. Candidate at the Department of Economics, The University of Utah.
+Welcome! I am an applied macroeconomist, currently a Ph.D. Candidate at the [Department of Economics](https://www.econ.utah.edu/), University of Utah. 
+
+My research focuses on the interactions between technological progress, climate change, and income distribution.
+
+You can contact me by email, [santetti@gmail.com](mailto:santetti@gmail.com), or through the contact form below.
 
 

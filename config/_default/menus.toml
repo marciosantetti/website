@@ -9,30 +9,9 @@
   weight = 10
 
 [[main]]
-  name = "Publications"
-  url = "#publications"
+  name = "Research"
+  url = "research/"
   weight = 20
-  
-[[main]]
-  name = "Published Articles"
-  parent = "Publications"
-  pre = "<i class=\"fas fa-pen-nib\" style=\"color: #fff;\"></i> "
-  url = "published_articles"
-  weight = 20
-  
-[[main]]
-  name = "Working Papers"
-  parent = "Publications"
-  pre = "<i class=\"fas fa-pencil-alt\" style=\"color: #fff;\"></i> "
-  url = "working_papers"
-  weight = 30
-  
-[[main]]
-  name = "Research Statement"
-  parent = "Publications"
-  pre = "<i class=\"fas fa-search\" style=\"color: #fff;\"></i> "
-  url = "research_statement"
-  weight = 40
 
 
 [[main]]
@@ -41,27 +20,27 @@
   weight = 30
   
 [[main]]
-  name = "Teaching Experience"
+  name = "Teaching Experience & Syllabi"
   parent = "Teaching"
   pre = "<i class=\"fas fa-chalkboard\" style=\"color: #fff;\"></i> "
-  url = "teaching"
-  weight = 20
+  url = "teaching/"
+  weight = 30
   
 [[main]]
-  name = "Teaching Philosophy"
+  name = "Teaching Philosophy & Evaluations"
   parent = "Teaching"
   pre = "<i class=\"fas fa-archive\" style=\"color: #fff;\"></i> "
-  url = "teaching_statement"
-  weight = 30
+  url = "philosophy/"
+  weight = 20
 
 [[main]]
   name = "Job Market Paper"
-  url = "#jmp"
+  url = "jmp/"
   weight = 40
   
 [[main]]
   name = "CV"
-  url = "files/new_cv.pdf"
+  url = "cv/"
   weight = 50
   
 [[main]]
