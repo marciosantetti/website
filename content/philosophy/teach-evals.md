@@ -18,6 +18,20 @@ subtitle = ""
 
 +++
 
+Some anonymous student evaluations for *Probability & Statistical Inference* and *Principles of Econometrics* classes:
+
+  * "Marcio Santetti takes great pride in his work, and you see that in his teaching. He made sure we understood the theory and not just memorization. He took the time to make sure no question was unimportant."
+  
+  * "Professor Santetti was extremely well organized and was capable of explaining the course content in a manner understandable for all students. He was extremely helpful when any students experienced any difficulties and encouraged participation. I genuinely wish to take more courses from you. Fantastic instructor in every sense of the word."
+  
+  * "This was the most effective professor I've had at the University of Utah. He is very patient with students and is always willing to ask questions. Made my experience at the University of Utah much more fulfilling and it's really nice to know that this professor genuinely cares about his students."
+  
+  * "Marcio teaches not to give us a grade but to make us understand. I have learned far more in his class that has been applicable to my work than in any other class that was deemed, 'more difficult.' He cares about students understanding and teaches to them and not just to simply get through the lectures."
+
+
+
+---
+
 
 The next two figures illustrate the average responses of students to instructor[^1] and course[^2] effectiveness. These questions refer to each semester that I was the course full instructor. These responses lie on a scale from 1 (strongly disagree) to 6 (strongly agree). The average scores for the Economics department are included for comparison.
 

@@ -20,13 +20,13 @@ date_format = "Jan 2006"
 
   
 [[experience]]
-  title = "Macroeconometrics"
+  title = "Time-series Econometrics"
   company = "Undergraduate"
   company_url = ""
   location = ""
   date_start = "2020-08-01"
   date_end = ""
-  description = """Syllabus
+  description = """[Syllabus](macrometrics_syllabus.pdf)
   """
   
   
@@ -37,7 +37,7 @@ date_format = "Jan 2006"
   location = ""
   date_start = "2020-08-01"
   date_end = ""
-  description = """Syllabus
+  description = """[Syllabus](bayesian_stats_syllabus.pdf)
   """
   
 [[experience]]
@@ -47,7 +47,7 @@ date_format = "Jan 2006"
   location = ""
   date_start = "2020-08-01"
   date_end = ""
-  description = """Syllabus
+  description = """[Syllabus](doctrines_syllabus.pdf)
   """
 
 +++
