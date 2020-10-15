@@ -45,7 +45,7 @@
   
 [[main]]
   name = "Blog"
-  url = "blog/"
+  url = "#home"
   weight = 60
 
 [[main]]

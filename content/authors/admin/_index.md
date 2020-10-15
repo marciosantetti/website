@@ -45,7 +45,7 @@ user_groups:
 
 ---
 
-Welcome! I am an applied macroeconomist, currently a Ph.D. Candidate at the [Department of Economics](https://www.econ.utah.edu/), University of Utah. 
+Welcome! I am an applied macroeconomist, currently a Ph.D. Candidate at the [Department of Economics](https://www.econ.utah.edu/), University of Utah.
 
 My research focuses on the interactions between technological progress, climate change, and income distribution.
 

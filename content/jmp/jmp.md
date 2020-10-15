@@ -20,10 +20,10 @@ subtitle = ""
 
 
 
-You can download the PDF here.
+You can download the PDF [here](Santetti_JMP.pdf).
 
 <br>
 
 
-
+<embed src="../jmp/Santetti_JMP.pdf" width="1000px" height="1900px" align="middle" />
 

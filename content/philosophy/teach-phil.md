@@ -22,11 +22,11 @@ subtitle = ""
 
 
 
-Teaching has been part of my life since High School, when I worked as an electric guitar instructor. Since going to graduate school is much more profitable than being a successful musician, I started teaching Economics as soon as I entered in the Ph.D. program at the University of Utah. I have mostly taught quantitative methods (Probabiliy & Statistics and Econometrics) at the undergraduate level, and it has become one of my passions.
+Teaching has been part of my life since High School, when I worked as an electric guitar instructor. Since going to graduate school is much more profitable than being a successful musician, I started teaching Economics as soon as I entered in the Ph.D. program at the University of Utah. I have mostly taught quantitative methods (Probability & Statistics and Econometrics) at the undergraduate level, and it has become one of my passions.
 
-My teaching philosophy gravitates around three main principles: empathy with students, the need for intuition, and marrying economic/statistical theory with real-world examples. 
+My teaching philosophy gravitates around three main principles: **empathy** with students, the need for **intuition**, and connecting economic/statistical theory with **real-world examples**. 
 
-You can download my Teaching Philosophy Statement here.
+You can download my *Teaching Philosophy Statement* [here](Santetti_Teaching_Statement.pdf).
 
 
 
