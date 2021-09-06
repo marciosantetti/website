@@ -25,5 +25,5 @@ You can download the PDF [here](cv.pdf).
 <br>
 
 
-<embed src="../cv/cv.pdf" width="1000px" height="1900px" align="middle" />
+<embed src="../cv/cv.pdf" width="1000px" height="1900px" align="center" />
 

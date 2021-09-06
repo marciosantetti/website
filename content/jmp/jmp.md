@@ -18,12 +18,14 @@ subtitle = ""
 
 +++
 
+**Job Market Paper 1**: *Growth, cycles, and residential investment*. Download PDF `here`.
+
+**Job Market Paper 2**: *What are the structural determinants of US carbon dioxide emissions? An econometric approach*. Download PDF [`here`](Santetti_IJAE.pdf).
 
 
-You can download the PDF [here](Santetti_JMP.pdf).
 
-<br>
+<embed src="../jmp/Santetti_IJAE.pdf" width="550px" height="1500" align="left" />
 
+<embed src="../jmp/Santetti_IJAE.pdf" width="550px" height="1500" align="right" />
 
-<embed src="../jmp/Santetti_JMP.pdf" width="1000px" height="1800px" align="middle" />
 

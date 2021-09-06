@@ -6,7 +6,7 @@ education:
   courses:
   - course: Ph.D., Economics
     institution: University of Utah
-    year: 2021 (expected)
+    year: 2022 (expected)
   - course: M.A., Development Economics
     institution: Pontificial Catholic University of Rio Grande do Sul (PUCRS)
     year: 2015
@@ -45,9 +45,9 @@ user_groups:
 
 ---
 
-Welcome! I am an applied macroeconomist, currently a Ph.D. Candidate at the [Department of Economics](https://www.econ.utah.edu/), University of Utah.
+Welcome! I am an applied macroeconomist, currently a Ph.D. Candidate in the [Department of Economics](https://www.econ.utah.edu/) at University of Utah.
 
-My research focuses on the interactions between technological progress, climate change, and income distribution.
+My research focuses on the interactions between economic growth, income distribution, and the environment.
 
 You can contact me by email, [santetti@gmail.com](mailto:santetti@gmail.com), or through the contact form below.
 
