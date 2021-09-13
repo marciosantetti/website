@@ -20,7 +20,7 @@ subtitle = ""
 
 
 
-You can download the PDF [here](cv.pdf).
+You can download the PDF version [here](cv.pdf).
 
 <br>
 
