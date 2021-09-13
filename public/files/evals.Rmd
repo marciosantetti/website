@@ -1,0 +1,77 @@
+---
+title: ""
+output: html_document
+---
+
+
+
+```{r, echo=FALSE, message=FALSE}
+
+library(ggplot2)
+library(plotly)
+library(ggthemr)
+
+ggthemr('fresh')
+
+
+term <- c('afall18', 'afall18', 'bspring19', 'bspring19', 'csummer19', 'csummer19', 'dfall19', 'dfall19', 
+          'espring20', 'espring20', 'fsummer20', 'fsummer20', 'gfall20', 'gfall20')
+
+eval <- c(5.73, 5.31, 5.96, 5.20, 5.35, 5.16, 5.47, 5.21, 5.77, 5.31, 5.49, 5.16, 5.36, 5.16)
+
+id <- rep(c('Santetti', 'ECON Average'), 7)
+
+
+df <- data.frame(term, eval, id)
+
+
+g <- ggplot(data=df, aes(x=term, y=eval, fill=id)) +
+  geom_bar(stat="identity", color="black", position=position_dodge2())+
+  theme_minimal() + 
+  scale_x_discrete(labels=c('gfall20'='Fall 2020',
+                            'fsummer20'='Summer 2020', 
+                            'espring20' = 'Spring 2020',
+                            'dfall19' = 'Fall 2019', 'csummer19' = 'Summer 2019',
+                            'bspring19' = 'Spring 2019', 'afall18' = 'Fall 2018')) + 
+  labs(y='', x='', fill='', title='Instructor Questions') +
+  coord_flip() 
+
+eval2 <- c(5.64, 5.21, 5.86, 5.13, 5.35, 5.04, 4.96, 5.03, 5.77, 5.14, 5.37, 5.04, 5.29, 5.04)
+
+df2 <- data.frame(term, eval2, id)
+
+
+g2 <- ggplot(data=df2, aes(x=term, y=eval2, fill=id)) +
+  geom_bar(stat="identity", color="black", position=position_dodge2())+
+  theme_minimal() + 
+  scale_x_discrete(labels=c('gfall20'='Fall 2020', 'fsummer20'='Summer 2020', 'espring20' = 'Spring 2020',
+                            'dfall19' = 'Fall 2019', 'csummer19' = 'Summer 2019',
+                            'bspring19' = 'Spring 2019', 'afall18' = 'Fall 2018')) + 
+  labs(y='', x='', fill='', title='Course Questions') +
+  coord_flip() 
+
+
+```
+
+
+```{r, results='show', message=FALSE, echo=FALSE}
+
+ggplotly(g)
+
+
+```
+
+<br>
+
+```{r, results='show', message=FALSE, echo=FALSE}
+
+ggplotly(g2)
+
+```
+
+
+
+
+
+
+
