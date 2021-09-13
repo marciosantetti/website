@@ -1,0 +1,51 @@
+---
+title: "What are the structural determinants of US carbon dioxide emissions? An econometric approach"
+author: "Marcio Santetti"
+date: '2021-08-01'
+slug: ehr-environmental-exposure-pfas
+categories:
+  - Research
+  - Job Market Papers
+tags:
+  - Journal publications
+doi: ''
+publishDate: '2021-08-01'
+publication_types:
+  - '2'
+publication: ''
+summary: 'Forthcoming in *The International Journal of Applied Economics*'
+featured: yes
+links:
+- icon: file-pdf
+  icon_pack: fas
+  name: Download PDF
+  url: https://marcio.rbind.io/teaching/Santetti_IJAE.pdf
+---
+
+## Abstract
+
+The role played by technological progress to reduce aggregate carbon
+dioxide (CO<sub>2</sub>) emissions is not yet clear within the applied literature. This
+paper addresses this issue by developing two different recursive Vector
+Autoregressive (VAR) methodologies to investigate the short-run dynamic
+interactions between aggregate carbon dioxide emissions and a set of
+macroeconomic variables for the US economy over the 1949–2018 period.
+Existing empirical procedures do not involve identification strategies solely
+based on economic theory, and this study does so through two main
+theoretical elements: an extended Kaya identity, including renewable
+energy consumption and the number of employed workers, and the green
+growth hypothesis, which ranks technological change as one of the leading
+drivers of an absolute decoupling process. In both VAR estimations, I
+compute aggregate CO<sub>2</sub> emissions responses to technology, non-renewable
+and renewable energy use, population, and output structural shocks. Most
+results indicate that technology and non-renewable energy use shocks
+positive and significantly affect emissions over the short-run. Contrary
+to a current belief within the theoretical literature, our results indicate
+that technology shocks positively affect energy demand, while the latter’s
+effect on the former is either negative or not significant. Finally, the
+US historical technological progress path does not support an absolute
+decoupling scenario among energy use, income, and emissions.
+
+<br>
+
+<embed src="/jmp/Santetti_IJAE.pdf" width="800px" height="1000px" align="center" />

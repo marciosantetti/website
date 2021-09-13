@@ -1,0 +1,43 @@
+---
+title: "Trouble with blurry Python plots? Here's a simple solution"
+#layout: single
+layout: single-sidebar
+date: '2021-09-08'
+slug: retina-python
+categories:
+  - Python
+  - Plots
+  - Tutorial
+tags:
+  - Python
+  - Jupyter Notebooks
+subtitle: 'Quick tip to make your plots shine'
+summary: 'Quick tip to make your plots shine'
+lastmod: '2021-09-08'
+featured: yes
+draft: no
+---
+
+
+## Motivation
+
+Several times I got frustrated with blurry plots in Python.
+
+I thought: I have a high-resolution display, so why to my plots do not look beautiful?
+
+
+
+## Here's the solution
+
+After some digging, I found the easiest solution. In your Jupyter notebook, type the following code (I recommend doing this in the same chunk where you load your modules, e.g., `numpy`, `pandas`, `matplotlib`):
+
+
+```{r, eval=FALSE, message=FALSE, warning=FALSE}
+%config InlineBackend.figure_format = 'retina'
+```
+
+
+
+... and it couldn't be easier!
+
+Happy (high-resolution) plotting!

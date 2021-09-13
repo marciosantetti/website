@@ -1,0 +1,44 @@
+---
+title: "Journal articles"
+author: "Marcio Santetti"
+date: '2021-08-01'
+slug: ehr-environmental-exposure-pfas
+categories:
+  - Research
+tags:
+  - Journal publications
+doi: ''
+publishDate: '2021-08-01T10:00:00-05:00'
+publication_types:
+  - '1'
+publication: ''
+summary: 'My published research'
+featured: yes
+links:
+- icon: google-scholar
+  icon_pack: ai
+  name: My Google Scholar
+  url: https://scholar.google.com/citations?user=bmhnc58AAAAJ&hl=en&oi=ao
+---
+
+
+### [What are the structural determinants of US carbon dioxide emissions? An econometric approach](/jmp/Santetti_IJAE.pdf)
+
+Job Market Paper version. Forthcoming in *The International Journal of Applied Economics*.
+
+
+
+
+### [The US labor share of income: What shocks matter?](https://www.tandfonline.com/doi/full/10.1080/00346764.2020.1821907)
+
+With Ivan Mendieta-Muñoz, Codrina Rada, and Rudiger von Arnim. 2020. *Review of Social Economy*. DOI:
+10.1080/00346764.2020.1821907.
+
+
+### [Technical progress in GDP production and CO<sub>2</sub> emissions in Brazil: 1970–2012](https://repositorio.cepal.org/handle/11362/44317)
+
+With Henrique Morrone and Adalmir Marquetti. 2018. *Cepal Review* (August), 125: 119–132.
+
+### [Exports evolution in the Southern region and in the Brazilian economy over the 2000s: Competitiveness and technological profile](https://periodicos.ufsm.br/index.php/eed/article/view/7430)
+
+With André Filipe Zago de Azevedo. 2013. *Economia e Desenvolvimento*, 25(1): 46–63.
