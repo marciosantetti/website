@@ -7,7 +7,7 @@ date: 2021-01-01
 draft: false
 ---
 
-You can download my full CV here.
+You can download my full CV [here](/cv/Santetti_CV.pdf).
 
 ---
 
