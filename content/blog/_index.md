@@ -1,38 +1,35 @@
 ---
-title: Research
+title: Blog
 description: |
-  Here you can check out my academic research pieces, including peer-reviewed journal articles, book chapters, and working papers. 
-  
-  A copy of my Research Statement is available under request.
+  This blog is a space to share anything that I find interesting about data-related stuff.
 author: "Marcio Santetti"
-show_post_thumbnail: false
-thumbnail_left: true # for list-sidebar only
-show_author_byline: true
+show_post_thumbnail: true
+thumbnail_left: false # for list-sidebar only
+show_author_byline: false
 show_post_date: true
 # for listing page layout
-layout: list # list, list-sidebar, list-grid
+layout: list-sidebar # list, list-sidebar, list-grid
 
 # for list-sidebar layout
 sidebar: 
   title: Blog
   description: |
-   Research publications.
-    
+    Quick tips, tutorials, and anything else that may help people with data work.
   author: "Marcio Santetti"
   text_link_label: Subscribe via RSS
   text_link_url: /index.xml
-  show_sidebar_adunit: true # show ad container
+  show_sidebar_adunit: false # show ad container
 
-# set up common front matter for all pages inside publication/
+# set up common front matter for all pages inside blog/
 cascade:
   author: "Marcio Santetti"
   show_author_byline: true
   show_post_date: true
-  show_comments: false # see site config to choose Disqus or Utterances
+  show_comments: true # see site config to choose Disqus or Utterances
   # for single-sidebar layout
   sidebar:
     text_link_label: View recent posts
-    text_link_url: /publication/
+    text_link_url: /blog/
     show_sidebar_adunit: false # show ad container
 ---
 

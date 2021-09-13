@@ -1,0 +1,25 @@
+---
+title: "Growth, cycles, and residential investment"
+author: "Marcio Santetti"
+date: '2021-09-01'
+slug: ehr-environmental-exposure-pfas
+categories:
+  - Research
+  - Job Market Paper
+tags:
+  - JMP
+doi: ''
+publishDate: '2021-09-01'
+publication_types:
+  - '1'
+publication: ''
+summary: 'Cyclical growth, investment, and income distribution'
+featured: yes
+links:
+- icon: file-pdf
+  icon_pack: fas
+  name: PDF coming soon
+  url: https://marcio.rbind.io
+---
+
+## Coming Soon

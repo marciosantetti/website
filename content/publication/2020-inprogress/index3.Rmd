@@ -1,0 +1,40 @@
+---
+title: "Works in Progress"
+author: "Marcio Santetti"
+date: '2021-06-01'
+slug: ehr-environmental-exposure-pfas
+categories:
+  - Research
+tags:
+  - Works in Progress
+doi: ''
+publishDate: '2021-06-01T10:00:00-05:00'
+publication_types:
+  - '3'
+publication: ''
+summary: 'In Progress...'
+featured: yes
+links:
+- icon: google-scholar
+  icon_pack: ai
+  name: My Google Scholar
+  url: https://scholar.google.com/citations?user=bmhnc58AAAAJ&hl=en&oi=ao
+---
+
+
+### Post-Keynesian vignettes on secular stagnation: From labor suppression to natural growth
+
+With Codrina Rada, Ansel Schiavone, and Rudiger von Arnim.
+
+<br>
+
+### Assessing the energy rebound effect for economies with different energy mix configurations
+
+<br>
+
+### The sources of endogeneity of long-run economic growth
+
+With Ivan Mendieta-Muñoz.
+
+
+

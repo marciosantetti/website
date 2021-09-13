@@ -1,9 +1,7 @@
 ---
-title: Research
+title: Job Market Papers
 description: |
-  Here you can check out my academic research pieces, including peer-reviewed journal articles, book chapters, and working papers. 
-  
-  A copy of my Research Statement is available under request.
+  Here you can find my two Job Market Papers.
 author: "Marcio Santetti"
 show_post_thumbnail: false
 thumbnail_left: true # for list-sidebar only
@@ -14,9 +12,9 @@ layout: list # list, list-sidebar, list-grid
 
 # for list-sidebar layout
 sidebar: 
-  title: Blog
+  title: Teaching
   description: |
-   Research publications.
+    A home for my Job Market Papers
     
   author: "Marcio Santetti"
   text_link_label: Subscribe via RSS

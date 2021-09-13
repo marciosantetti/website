@@ -1,0 +1,27 @@
+---
+title: "Working Papers"
+author: "Marcio Santetti"
+date: '2021-07-01'
+slug: ehr-environmental-exposure-pfas
+categories:
+  - Research
+tags:
+  - Working Papers
+doi: ''
+publishDate: '2021-07-01T10:00:00-05:00'
+publication_types:
+  - '2'
+publication: ''
+summary: 'Current working papers'
+featured: yes
+links:
+- icon: google-scholar
+  icon_pack: ai
+  name: My Google Scholar
+  url: https://scholar.google.com/citations?user=bmhnc58AAAAJ&hl=en&oi=ao
+---
+
+
+### [The Sraffian supermultiplier and cycles: Theory and empirics](http://www.levyinstitute.org/publications/the-sraffian-supermultiplier-and-cycles-theory-and-empirics)
+
+With Michalis Nikiforos and Rudiger von Arnim. 2021. *Levy Economics Institute of Bard College Working Paper No. 993*.
