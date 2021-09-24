@@ -19,12 +19,12 @@ You can download my *Teaching Philosophy Statement* [here](/teaching/Santetti_Te
 
 #### As full instructor:
 
-- **Intermediate Microeconomics** -- Fall 2021
+- **ECON 4010/6010 Intermediate Microeconomics** -- Fall 2021
 
   - [Course Syllabus](/teaching/syllabus_4010_fall21.pdf)
-  - [Problem Set 1](/teaching/PS1_fall21.pdf)
+  - [Problem Set 1](/teaching/PS1_fall21.pdf) | [Problem Set 2](/teaching/PS2_fall21.pdf) | [Problem Set 3](/teaching/PS3_fall21.pdf)
   
-- **Principles of Econometrics** -- Spring 2021/20, Fall 2020, Summer 2020/19
+- **ECON 4650 Principles of Econometrics** -- Spring 2021/20, Fall 2020, Summer 2020/19
   
   - [Spring 2021 Syllabus](/teaching/syllabus_4650_sp21.pdf)
   - Spring 2021 [Midterm Exam](/teaching/midterm_sp21.pdf) | [Final Exam](/teaching/final_sp21.pdf)
@@ -33,7 +33,7 @@ You can download my *Teaching Philosophy Statement* [here](/teaching/Santetti_Te
     - Multiple Linear Regression (applied) -- [lecture video](https://youtu.be/ciw-K_jIaNQ) | [R code](/teaching/multiple-regression.R) | [Data set 1](/teaching/mroz.csv) \& [Data set 2](/teaching/fast_food.csv)
     - Time-series models (theory) -- [lecture video](https://youtu.be/MDZ0TZU8NOw)
   
-- **Probability \& Statistical Inference** -- Fall 2019/18, Spring 2019
+- **ECON 3640 Probability \& Statistical Inference** -- Fall 2019/18, Spring 2019
 
   - [Spring 2019 Syllabus](syllabus-3640-sp2019.pdf)
 
@@ -41,10 +41,10 @@ You can download my *Teaching Philosophy Statement* [here](/teaching/Santetti_Te
 
 #### As teaching assistant:
 
-- **Health Economics** -- Spring 2019
-- **Probability \& Statistical Inference** -- Spring 2018
-- **Principles of Microeconomics** -- Fall 2017/16, Spring 2017
-- **Principles of Macroeconomics** -- Spring 2021/17, Fall 2017/16
+- **ECON 3190 Health Economics** -- Spring 2019
+- **ECON 3640 Probability \& Statistical Inference** -- Spring 2018
+- **ECON 2010 Principles of Microeconomics** -- Fall 2017/16, Spring 2017
+- **ECON 2020 Principles of Macroeconomics** -- Spring 2021/17, Fall 2017/16
 
 
 ---

@@ -24,7 +24,7 @@ You can download my full CV [here](/cv/Santetti_CV.pdf).
  
 **M.A. in Development Economics**  &#8729; Pontificial Catholic University of Rio Grande do Sul (PUCRS), *Brazil* &#8729; 2013--2015
 
- - *Thesis*: "Two essays on economic growth and the environment"
+ - *Thesis*: "[Two essays on economic growth and the environment](https://repositorio.pucrs.br/dspace/bitstream/10923/7264/1/000468421-Texto%2BCompleto-0.pdf)"
  - *Chair*: Adalmir Marquetti
 
 
