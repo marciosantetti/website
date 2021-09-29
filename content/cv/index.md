@@ -139,6 +139,22 @@ presentation, 04/04/2018.
 
 - "*The bilateral trade among countries: A study for the 1990--2009 period*." [In Brazilian Portuguese: "*O comércio bilateral entre os países: Um estudo para o período 1990--2009*".] UNISINOS' 2011 Scientific Research Fair. Oral presentation, 06/20/2011.
 
+## Service
+
+### Undergraduate advising
+
+- David Christensen &#8729; 2021--Present
+- Bailey Warren &#8729; 2021--Present
+
+### Referee work: Journals
+
+- Revista Cepal &#8729; 2018
+
+### Academic service
+
+- Vice-President, Heterodox Economics Student Association (HESA) &#8729; 2019--2020
+
+
 ## Skills
 
 ### Computer skills
