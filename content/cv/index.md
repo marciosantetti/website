@@ -58,6 +58,8 @@ Marquetti and Henrique Morrone, 2018, ***Cepal Review*** (August), 125: 119--132
 
 ### Working Papers
 
+- "Growth, cycles, and residential investment." **Job Market Paper 2**.
+
 - ["The Sraffian supermultiplier and cycles: Theory and empirics,"](http://www.levyinstitute.org/publications/the-sraffian-supermultiplier-and-cycles-theory-and-empirics) with Michalis Nikiforos and Rudiger von Arnim, 2021, ***Levy Economics Institute of Bard College Working Paper No. 993***.
 
 - ["Post-Keynesian vignettes on secular stagnation: From labor suppression to natural growth](https://economics.utah.edu/research/publications/2021_05.pdf)," with Codrina Rada, Ansel Schiavone, and Rudiger von Arnim, 2021, ***University of Utah's Department of Economics Working Paper No. 2021-05***.
