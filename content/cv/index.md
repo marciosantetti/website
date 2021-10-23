@@ -58,7 +58,7 @@ Marquetti and Henrique Morrone, 2018, ***Cepal Review*** (August), 125: 119--132
 
 ### Working Papers
 
-- "Growth, cycles, and residential investment." **Job Market Paper 2**.
+- ["Growth, cycles, and residential investment."](https://marcio.rbind.io/jmp/Santetti_GCRI.pdf) **Job Market Paper 2**.
 
 - ["The Sraffian supermultiplier and cycles: Theory and empirics,"](http://www.levyinstitute.org/publications/the-sraffian-supermultiplier-and-cycles-theory-and-empirics) with Michalis Nikiforos and Rudiger von Arnim, 2021, ***Levy Economics Institute of Bard College Working Paper No. 993***.
 
@@ -125,7 +125,9 @@ Marquetti and Henrique Morrone, 2018, ***Cepal Review*** (August), 125: 119--132
 
 ## Presentations
 
-- "*What are the structural determinants of US carbon dioxide emissions? An econometric approach*." Economic Growth & Macroeconomic Stability/Instability Research Group, University of Utah. Oral presentation, 11/05/2020.
+- "*Growth, cycles, and residential investment.*" Economic Growth & Macroeconomic Stability/Instability Research Group, University of Utah. Oral presentation (online), 10/21/2021.
+
+- "*What are the structural determinants of US carbon dioxide emissions? An econometric approach*." Economic Growth & Macroeconomic Stability/Instability Research Group, University of Utah. Oral presentation (online), 11/05/2020.
 
 - "*The US labor share of income: What shocks matter?*" Economic Growth & Macroeconomic Stability/
 Instability Research Group, University of Utah. Oral presentation, 12/05/2019.
