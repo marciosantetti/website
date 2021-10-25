@@ -13,6 +13,8 @@ I started teaching Economics as soon as I entered in the Ph.D. program at the Un
 
 You can download my *Teaching Philosophy Statement* [here](/teaching/Santetti_Teaching_Statement.pdf).
 
+I have also a statement on my views and experiences regarding *diversity* and *inclusivity*. It can be downloaded [here](teaching/Santetti_Diversity_Statement.pdf).
+
 ---
 
 ## Courses taught
