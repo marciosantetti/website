@@ -30,7 +30,7 @@ You can download my full CV [here](/cv/Santetti_CV.pdf).
 
 **B.A. in Economics** (*with distinction*)  &#8729;  University of the Sinos River Valley (UNISINOS), *Brazil* &#8729; 2009--2012
 
-  - *Thesis*: "The role of Sraffa in the history of economic thought: Critiques and positive contributions"
+  - *Thesis*: "[The role of Sraffa in the history of economic thought: Critiques and positive contributions](/cv/santetti_thesis.pdf)"
   - *Chair*: Fernando Maccari Lara
 
 <br>
