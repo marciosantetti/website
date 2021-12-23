@@ -19,7 +19,7 @@ links:
 - icon: file-pdf
   icon_pack: fas
   name: Download PDF
-  url: https://marcio.rbind.io/jmp/Santetti_IJAE.pdf
+  url: https://conferencenow.info/yhsing/applied-economics-journals/IJAE/2021/IJAE%20SEPT%202021%20Santetti%2012-12-2021%20V1.pdf
 ---
 
 ## Abstract
@@ -48,4 +48,4 @@ decoupling scenario among energy use, income, and emissions.
 
 <br>
 
-<embed src="/jmp/Santetti_IJAE.pdf" width="800px" height="1000px" align="center" />
+<embed src="/jmp/IJAE SEPT 2021 Santetti 12-12-2021 V1.pdf" width="800px" height="1000px" align="center" />

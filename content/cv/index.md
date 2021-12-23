@@ -46,7 +46,7 @@ You can download my full CV [here](/cv/Santetti_CV.pdf).
 
 ### Journal Articles
 
-- "What are the structural determinants of US carbon dioxide emissions? An econometric approach," 2021, ***International Journal of Applied Economics*** (forthcoming).
+- ["What are the structural determinants of US carbon dioxide emissions? An econometric approach,"](https://conferencenow.info/yhsing/applied-economics-journals/IJAE/2021/IJAE%20SEPT%202021%20Santetti%2012-12-2021%20V1.pdf) 2021, ***International Journal of Applied Economics***, 18(2): 44--80.
 
 - ["The US labor share of income: What shocks matter?"](https://www.tandfonline.com/doi/full/10.1080/00346764.2020.1821907) with Ivan Mendieta-Muñoz, Codrina
 Rada, and Rudiger von Arnim, 2020, ***Review of Social Economy***, DOI: 10.1080/00346764.2020.1821907.
