@@ -21,10 +21,12 @@ I have also a statement on my views and experiences regarding *diversity* and *i
 
 #### As full instructor:
 
-- **ECON 4010/6010 Intermediate Microeconomics** -- Fall 2021
+- **ECON 3640 Probability \& Statistical Inference** -- Fall 2019/18, Spring 2019
 
-  - [Course Syllabus](/teaching/syllabus_4010_fall21.pdf)
-  - [Problem Set 1](/teaching/PS1_fall21.pdf) | [Problem Set 2](/teaching/PS2_fall21.pdf) | [Problem Set 3](/teaching/PS3_fall21.pdf)
+  - [Spring 2022 Syllabus](syllabus_3640_sp22.pdf)
+  - [Github repo (including all course materials)](https://github.com/marciosantetti/econ-3640-sp22)
+
+
   
 - **ECON 4650 Principles of Econometrics** -- Spring 2021/20, Fall 2020, Summer 2020/19
   
@@ -35,9 +37,10 @@ I have also a statement on my views and experiences regarding *diversity* and *i
     - Multiple Linear Regression (applied) -- [lecture video](https://youtu.be/ciw-K_jIaNQ) | [R code](/teaching/multiple-regression.R) | [Data set 1](/teaching/mroz.csv) \& [Data set 2](/teaching/fast_food.csv)
     - Time-series models (theory) -- [lecture video](https://youtu.be/MDZ0TZU8NOw)
   
-- **ECON 3640 Probability \& Statistical Inference** -- Fall 2019/18, Spring 2019
+- **ECON 4010/6010 Intermediate Microeconomics** -- Fall 2021, Spring 2022
 
-  - [Spring 2019 Syllabus](syllabus-3640-sp2019.pdf)
+  - [Fall 2021 Course Syllabus](/teaching/syllabus_4010_fall21.pdf)
+  - [Problem Set 1](/teaching/PS1_fall21.pdf) | [Problem Set 2](/teaching/PS2_fall21.pdf) | [Problem Set 3](/teaching/PS3_fall21.pdf)
 
 <br>
 
