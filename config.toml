@@ -132,16 +132,7 @@ enableEmoji = true
     title = "Curriculum Vitae"
     url = "/cv/"
     weight = 4
-  [[menu.header]]
-    name = "Job Market Papers"
-    title = "Job Market Papers"
-    url = "/jmp/"
-    weight = 5
-  [[menu.header]]
-    name = "Blog"
-    title = "misc"
-    url = "/blog/"
-    weight = 6
+
     
   # Configure footer  
   [[menu.footer]]

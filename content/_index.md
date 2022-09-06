@@ -1,8 +1,8 @@
 ---
 title: "Marcio Santetti"
-subtitle: "Ph.D. Candidate in Economics, University of Utah"
-description: "I am an economist and a big R and Python enthusiast. My research interests focus on how economic growth interacts with income distribution and the natural environment. To me, everything gets much better with some data and coffee.  <br><br>
-You can contact me via email: santetti[at]gmail[dot]com."
+subtitle: "Economics Department, Skidmore College"
+description: "I am a Visiting Assistant Professor of Economics at Skidmore College. My research interests focus on how economic growth interacts with income distribution and the natural environment. To me, everything gets much better with some data and coffee.  <br><br>
+You can contact me via email: msantetti[at]skidmore[dot]edu."
 images:
   - img/zion.png
 image_alt_text: "Zion National Park"

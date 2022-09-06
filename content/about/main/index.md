@@ -11,8 +11,7 @@ intro: |
   When I was introduced to data work in Statistics and Econometrics, all the quantitative character of Economics finally made practical sense. Then, in addition to studying growth and business cycles, I also started researching on the linkages between technological progress and climate change. 
   
   Beyond researching, teaching gives me the opportunity to make all the equations, models, and theories that surround us intuitive and empirically applicable to students. In my teaching, I am a big supporter of open-source software and reproducible coding. 
-  
-  In addition to my research and teaching, you can also check out my latest adventures in data work in my [blog](/blog). 
+
   
 show_outro: true
 outro: |
