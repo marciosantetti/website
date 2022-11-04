@@ -23,7 +23,7 @@ You can download my *Teaching Philosophy Statement* [here](/teaching/Santetti_Te
   
 - **EC 339 Applied Econometrics** -- Fall 2022
 
-  - [Fall 2022 Github repo (including all course materials)](https://github.com/marciosantetti/ec339-fall22)
+  - [Fall 2022 Github repo (including all course materials)](https://github.com/marciosantetti/ec339-f22)
 
 ### University of Utah
 
