@@ -19,13 +19,20 @@ I also have a *commitment to diversity statement*, which you can download [here]
 
 ### Skidmore College
 
-- **EC 103 Introduction to Macroeconomics** -- Fall 2022
+- **EC 235 Macroeconomic Theory** -- Fall 2023
 
-  - [Fall 2022 Github repo (including all course materials)](https://github.com/marciosantetti/ec103-fall22)
+  - [Fall 2023 Github repository (including all course materials)](https://github.com/marciosantetti/ec235-fall23/blob/main/README.md)
+
+- **EC 103 Introduction to Macroeconomics** -- Fall 2022, Spring 2023
+
+  - [Spring 2023 Github repository (including all course materials)](https://github.com/marciosantetti/ec103-sp23)
+  - [Fall 2022 Github repository (including all course materials)](https://github.com/marciosantetti/ec103-fall22)
   
-- **EC 339 Applied Econometrics** -- Fall 2022
-
-  - [Fall 2022 Github repo (including all course materials)](https://github.com/marciosantetti/ec339-f22)
+- **EC 339 Applied Econometrics** -- Fall 2022/23, Spring 2023
+  
+  - [Fall 2023 Github repository (including all course materials)](https://github.com/marciosantetti/ec339-fall23)
+  - [Spring 2023 Github repository (including all course materials)](https://github.com/marciosantetti/ec339-sp23)
+  - [Fall 2022 Github repository (including all course materials)](https://github.com/marciosantetti/ec339-f22)
 
 ### University of Utah
 
@@ -34,7 +41,7 @@ I also have a *commitment to diversity statement*, which you can download [here]
 
 - **ECON 3640 Probability \& Statistical Inference** -- Fall 2019/18, Spring 2019
 
-  - [Spring 2022 Github repo (including all course materials)](https://github.com/marciosantetti/econ-3640-sp22)
+  - [Spring 2022 Github repository (including all course materials)](https://github.com/marciosantetti/econ-3640-sp22)
 
 
   
@@ -82,7 +89,6 @@ Some anonymous student evaluations:
 
 Here are some sample syllabi for a few courses that reflect my research interests:
 
-- [Intermediate Macroeconomics](/teaching/macro_syllabus.pdf)
 
 - [Environmental Economics](/teaching/enviro_syllabus.pdf)
 
