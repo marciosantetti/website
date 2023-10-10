@@ -9,9 +9,9 @@ draft: false
 
 This is the home for my teaching materials, student feedback, and sample syllabi. If you find some merit in any material you see here, feel free to use. Please, just make sure to let me know via email and to acknowledge the source somewhere in your own syllabus or lecture.
 
-You can download my *Teaching Philosophy Statement* [here](/teaching/ts-2022.pdf).
+You can download my *Teaching Philosophy Statement* [here](/teaching/ts-2023.pdf).
 
-I also have a *commitment to diversity statement*, which you can download [here](/teaching/ds-2022.pdf).
+I also have a *commitment to diversity statement*, available under request.
 
 ---
 

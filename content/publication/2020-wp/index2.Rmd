@@ -22,6 +22,11 @@ links:
 ---
 
 
+### [A finance-led model for U.S. business cycles](https://arxiv.org/abs/2310.05153)
+
+*arXiv preprint* arXiv 2310.05153.
+
+
 ### [Growth, cycles, and residential investment](https://economics.utah.edu/research/publications/2022_04.pdf)
 
 With Michalis Nikiforos and Rudiger von Arnim. 2022. *University of Utah's Department of Economics Working Paper Series No. 2022--04*.
