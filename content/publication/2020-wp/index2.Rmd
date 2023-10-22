@@ -22,7 +22,7 @@ links:
 ---
 
 
-### [A finance-led model for U.S. business cycles](https://arxiv.org/abs/2310.05153)
+### [A time-varying finance-led model for U.S. business cycles](https://arxiv.org/abs/2310.05153)
 
 *arXiv preprint* arXiv 2310.05153.
 
