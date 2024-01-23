@@ -21,7 +21,9 @@ links:
   url: https://scholar.google.com/citations?user=bmhnc58AAAAJ&hl=en&oi=ao
 ---
 
+### [Growth, cycles, and residential investment](https://www.sciencedirect.com/science/article/abs/pii/S0954349X23001856?dgcid=author)
 
+With Michalis Nikiforos and Rudiger von Arnim. 2024. *Structural Change & Economic Dynamics*, 69, June 2024: 313--327.
 
 ### [Residential and nonresidential investment and the cycle: A rejoinder](https://www.tandfonline.com/doi/full/10.1080/09538259.2022.2156726)
 

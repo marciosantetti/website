@@ -19,16 +19,21 @@ I also have a *commitment to diversity statement*, available under request.
 
 ### Skidmore College
 
+- **EC 361 Applied Macroeconomic Forecasting** -- Spring 2024
+
+  - [Spring 2024 Github repository (including all course materials)](https://github.com/marciosantetti/ec361-sp24/blob/main/README.md)
+
 - **EC 235 Macroeconomic Theory** -- Fall 2023
 
   - [Fall 2023 Github repository (including all course materials)](https://github.com/marciosantetti/ec235-fall23/blob/main/README.md)
 
-- **EC 103 Introduction to Macroeconomics** -- Fall 2022, Spring 2023
+- **EC 103 Introduction to Macroeconomics** -- Fall 2022, Spring 2024/23
 
+  - [Spring 2024 Github repository (including all course materials)](https://github.com/marciosantetti/ec103-sp24)
   - [Spring 2023 Github repository (including all course materials)](https://github.com/marciosantetti/ec103-sp23)
   - [Fall 2022 Github repository (including all course materials)](https://github.com/marciosantetti/ec103-fall22)
   
-- **EC 339 Applied Econometrics** -- Fall 2022/23, Spring 2023
+- **EC 339 Applied Econometrics** -- Fall 2023/22, Spring 2023
   
   - [Fall 2023 Github repository (including all course materials)](https://github.com/marciosantetti/ec339-fall23)
   - [Spring 2023 Github repository (including all course materials)](https://github.com/marciosantetti/ec339-sp23)
