@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Working Papers on Marcio Santetti</title>
+    <link>https://marcio.rbind.io/tags/working-papers/</link>
+    <description>Recent content in Working Papers on Marcio Santetti</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 01 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://marcio.rbind.io/tags/working-papers/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Working Papers</title>
+      <link>https://marcio.rbind.io/publication/2020-wp/ehr-environmental-exposure-pfas/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://marcio.rbind.io/publication/2020-wp/ehr-environmental-exposure-pfas/</guid>
+      <description>Current working papers</description>
+    </item>
+    
+  </channel>
+</rss>

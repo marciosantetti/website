@@ -10,11 +10,11 @@ headline: |
 
 I'm happy that you are here!
 
-I am a Visiting Assistant Professor in the [Economics Department](https://www.skidmore.edu/economics/) at [Skidmore College](https://www.skidmore.edu/), in the beautiful Saratoga Springs, NY. I obtained my Ph.D. in Economics from the [University of Utah](https://www.utah.edu/) in 2022. 
+I am an Assistant Professor in the [Marlboro Institute for Liberal Arts & Interdisciplinary Studies](https://emerson.edu/academics/schools-labs-and-centers/marlboro-institute) at [Emerson College](https://www.emerson.edu/), in Boston, MA. I obtained my Ph.D. in Economics from the [University of Utah](https://www.utah.edu/) in 2022. 
 
 My research interests include empirical investigations on (*i*) how technological progress influences the natural environment, specifically through energy use and greenhouse gas emissions, and (*ii*) how economic activity variables (e.g., capacity utilization, aggregate investment, and the employment rate) interact with price-distributive measures (e.g., the labor share of income and interest rates). You can check out my recent research pieces in [research](/publication).
 
-I have also taught *Econometrics*, *Statistics*, *Macro and Microeconomic Theory*, and *introductory* courses. Personally, I see teaching as a means to empower students with the necessary intuition about theory and practical skills with real-world examples and data. You can take a look at my teaching experience/materials in [teaching](/teaching).
+I have also taught *Forecasting*, *Econometrics*, *Statistics*, *Macro and Microeconomic Theory*, and *introductory* courses. Personally, I see teaching as a means to empower students with the necessary intuition about theory and practical skills with real-world examples and data. You can take a look at my teaching experience/materials in [teaching](/teaching).
 
 
 <i class="fas fa-graduation-cap pr2"></i> Ph.D. in Economics &#8729; **University of Utah** &#8729; 2022
