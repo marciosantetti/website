@@ -1,16 +1,38 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags | Marcio Santetti</title>
-    <link>/tags/</link>
-      <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
-    <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Marcio Santetti .·.</copyright><lastBuildDate>Tue, 11 Jun 2019 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>/images/icon_hu36991c1dce3b2944b87810024dff250c_14600_512x512_fill_lanczos_center_2.png</url>
-      <title>Tags</title>
-      <link>/tags/</link>
-    </image>
+    <title>Tags on Marcio Santetti</title>
+    <link>https://marcio.rbind.io/tags/</link>
+    <description>Recent content in Tags on Marcio Santetti</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 01 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://marcio.rbind.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Journal publications</title>
+      <link>https://marcio.rbind.io/tags/journal-publications/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://marcio.rbind.io/tags/journal-publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Working Papers</title>
+      <link>https://marcio.rbind.io/tags/working-papers/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://marcio.rbind.io/tags/working-papers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Works in Progress</title>
+      <link>https://marcio.rbind.io/tags/works-in-progress/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://marcio.rbind.io/tags/works-in-progress/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

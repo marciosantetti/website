@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research on Marcio Santetti</title>
+    <link>https://marcio.rbind.io/categories/research/</link>
+    <description>Recent content in Research on Marcio Santetti</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 01 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://marcio.rbind.io/categories/research/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Journal articles</title>
+      <link>https://marcio.rbind.io/publication/ehr-environmental-exposure-pfas/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://marcio.rbind.io/publication/ehr-environmental-exposure-pfas/</guid>
+      <description>My published research</description>
+    </item>
+    
+    <item>
+      <title>Working Papers</title>
+      <link>https://marcio.rbind.io/publication/2020-wp/ehr-environmental-exposure-pfas/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://marcio.rbind.io/publication/2020-wp/ehr-environmental-exposure-pfas/</guid>
+      <description>Current working papers</description>
+    </item>
+    
+    <item>
+      <title>Works in Progress</title>
+      <link>https://marcio.rbind.io/publication/2020-inprogress/ehr-environmental-exposure-pfas/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://marcio.rbind.io/publication/2020-inprogress/ehr-environmental-exposure-pfas/</guid>
+      <description>In Progress&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

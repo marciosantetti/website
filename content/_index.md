@@ -1,8 +1,8 @@
 ---
 title: "Marcio Santetti"
-subtitle: "Economics Department, Skidmore College"
-description: "I am a Visiting Assistant Professor of Economics at Skidmore College. My research interests focus on how economic growth interacts with income distribution and the natural environment. To me, everything gets much better with some data and coffee.  <br><br>
-You can contact me via email: msantetti[at]skidmore[dot]edu."
+subtitle: "Emerson College"
+description: "I am an Assistant Professor of Economics at Emerson College. My research interests focus on how economic growth interacts with income distribution and the natural environment. <br><br>
+You can contact me via email: marcio.santetti[at]emerson[dot]edu."
 images:
   - img/zion.png
 image_alt_text: "Zion National Park"
