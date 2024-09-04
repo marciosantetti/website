@@ -4,8 +4,8 @@ subtitle: "Emerson College"
 description: "I am an Assistant Professor of Economics at Emerson College. My research interests focus on how economic growth interacts with income distribution and the natural environment. <br><br>
 You can contact me via email: marcio.santetti[at]emerson[dot]edu."
 images:
-  - img/zion.png
-image_alt_text: "Zion National Park"
+  - img/adk.png
+image_alt_text: "Adirondack"
 image_left: false
 text_align_left: false
 show_social_links: true # specify social accounts in site config
