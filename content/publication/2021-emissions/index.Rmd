@@ -21,6 +21,11 @@ links:
   url: https://scholar.google.com/citations?user=bmhnc58AAAAJ&hl=en&oi=ao
 ---
 
+
+### A time-varying finance-led model for U.S. business cycles
+
+Forthcoming in *Metroeconomica*.
+
 ### [Growth, cycles, and residential investment](https://www.sciencedirect.com/science/article/abs/pii/S0954349X23001856?dgcid=author)
 
 With Michalis Nikiforos and Rudiger von Arnim. 2024. *Structural Change & Economic Dynamics*, 69, June 2024: 313--327.

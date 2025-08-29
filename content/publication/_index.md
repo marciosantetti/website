@@ -1,7 +1,7 @@
 ---
 title: Research
 description: |
-  Here you can check out my academic research pieces, including peer-reviewed journal articles, working papers, and research in progress. 
+  Here you can check out my academic research pieces, including peer-reviewed journal articles and working papers.
   
   A copy of my Research Statement is available under request.
 author: "Marcio Santetti"

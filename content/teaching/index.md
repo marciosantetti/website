@@ -7,15 +7,34 @@ date: 2021-01-01
 draft: false
 ---
 
-This is the home for my teaching materials, student feedback, and sample syllabi. If you find some merit in any material you see here, feel free to use. Please, just make sure to let me know via email and to acknowledge the source somewhere in your own syllabus or lecture.
+This is the home for my teaching materials and student feedback.
 
-You can download my *Teaching Philosophy Statement* [here](/teaching/ts-2023.pdf).
+If you find some merit in any material you see here, feel free to use. Please, just make sure to let me know via email and to acknowledge the source somewhere in your own syllabus or lecture.
 
-I also have a *commitment to diversity statement*, available under request.
+
 
 ---
 
 ## Courses taught
+
+
+### Emerson College
+
+- **EC 320 History of Economic Thought (Adv. Topics)** -- Spring 2025
+
+  - [Syllabus](https://raw.githack.com/marciosantetti/ec320-sp25/main/syllabus/syllabus-ec320-spring25.pdf)
+  
+- **EC 320 Game Theory (Adv. Topics)** -- Fall 2025
+
+  - [Syllabus](https://raw.githack.com/marciosantetti/ec320-fall25/main/syllabus/syllabus-ec320-fall25.pdf)
+  
+- **EC 203 Principles of Economics** -- Fall 2025
+
+  - [Syllabus](https://raw.githack.com/marciosantetti/ec203-fall25/main/syllabus/syllabus-ec203-fall25.pdf)
+
+- **EC 210 Principles of Macroeconomics (Sp. Topics)** -- Fall 2024, Spring 2025
+
+  - [Syllabus](https://raw.githack.com/marciosantetti/ec210-sp25/main/syllabus/syllabus-ec210-spring25.pdf)
 
 ### Skidmore College
 
@@ -88,18 +107,4 @@ Some anonymous student evaluations:
   
   > "*Marcio teaches not to give us a grade but to make us understand. I have learned far more in his class that has been applicable to my work than in any other class that was deemed, 'more difficult.' He cares about students understanding and teaches to them and not just to simply get through the lectures*."
 
----
-
-## Sample Syllabi
-
-Here are some sample syllabi for a few courses that reflect my research interests:
-
-
-- [Environmental Economics](/teaching/enviro_syllabus.pdf)
-
-- [Time-series Econometrics](/teaching/macrometrics_syllabus.pdf)
-
-- [Bayesian Statistics](/teaching/bayesian_stats_syllabus.pdf)
-
-- [History of Economic Doctrines](/teaching/doctrines_syllabus.pdf)
 

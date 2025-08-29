@@ -22,9 +22,6 @@ links:
 ---
 
 
-### [A time-varying finance-led model for U.S. business cycles](https://arxiv.org/abs/2310.05153)
-
-*arXiv preprint* arXiv 2310.05153.
 
 ### [Post-Keynesian vignettes on secular stagnation: From labor suppression to natural growth](https://economics.utah.edu/research/publications/2021_05.pdf)
 
