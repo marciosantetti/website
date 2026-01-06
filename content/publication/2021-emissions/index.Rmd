@@ -22,7 +22,7 @@ links:
 ---
 
 
-### A time-varying finance-led model for U.S. business cycles
+### [A time-varying finance-led model for U.S. business cycles](https://doi.org/10.1111/meca.12516)
 
 Forthcoming in *Metroeconomica*.
 

@@ -15,6 +15,36 @@ If you find some merit in any material you see here, feel free to use. Please, j
 
 ---
 
+## Student Feedback
+
+Some anonymous student evaluations:
+
+
+<br>
+
+  >"*He treats every student as an equal, has in-depth conversations with all of us, and really cares!*"
+
+  > "*The most beneficial aspect of this course was Professor Marcio Santetti’s patience and understanding. He was always willing to take the time to explain concepts I did not fully understand, which made the material much clearer and helped me feel supported throughout the course. And I really like the discussion atmosphere in the classroom, where everyone can be more immersed in thinking.*"
+
+  > "*The lecture style/connection to real world events that Professor Santetti laid out from the beginning of the semester made all of the topics he covered very easy to follow and interesting.*"
+  
+  > "*Thank you! It was an excellent semester! I'm so happy that I didn't listen to my fears and decided to take this class. Some professors may be experts in their field, but not all of them have the gift for teaching. You, however, have that gift! You are able to take complex, lengthy material and make it not only easy to understand but also engaging and relevant. I thoroughly enjoyed this class*."
+
+  > "*Marcio Santetti takes great pride in his work, and you see that in his teaching. He made sure we understood the theory and not just memorization. He took the time to make sure no question was unimportant*."
+  
+  > "*Professor Santetti was extremely well organized and was capable of explaining the course content in a manner understandable for all students. He was extremely helpful when any students experienced any difficulties and encouraged participation. I genuinely wish to take more courses from you. Fantastic instructor in every sense of the word*."
+  
+  > "*This was the most effective professor I've had at the University of Utah. He is very patient with students and is always willing to ask questions. Made my experience at the University of Utah much more fulfilling and it's really nice to know that this professor genuinely cares about his students*."
+  
+  > "*Marcio teaches not to give us a grade but to make us understand. I have learned far more in his class that has been applicable to my work than in any other class that was deemed, 'more difficult.' He cares about students understanding and teaches to them and not just to simply get through the lectures*."
+
+
+
+
+
+
+---
+
 ## Courses taught
 
 
@@ -26,11 +56,11 @@ If you find some merit in any material you see here, feel free to use. Please, j
   
 - **EC 320 Game Theory (Adv. Topics)** -- Fall 2025
 
-  - [Syllabus](https://raw.githack.com/marciosantetti/ec320-fall25/main/syllabus/syllabus-ec320-fall25.pdf)
+  - [Syllabus](/teaching/syllabus-ec320-fall25.pdf)
   
-- **EC 203 Principles of Economics** -- Fall 2025
+- **EC 203 Principles of Economics** -- Spring 2026, Fall 2025
 
-  - [Syllabus](https://raw.githack.com/marciosantetti/ec203-fall25/main/syllabus/syllabus-ec203-fall25.pdf)
+  - [Syllabus](https://raw.githack.com/marciosantetti/ec203-sp26/main/syllabus/syllabus-ec203-sp26.pdf)
 
 - **EC 210 Principles of Macroeconomics (Sp. Topics)** -- Fall 2024, Spring 2025
 
@@ -89,22 +119,4 @@ If you find some merit in any material you see here, feel free to use. Please, j
 
 
 ---
-
-## Student Feedback
-
-Some anonymous student evaluations:
-
-
-<br>
-
-  > "*Thank you! It was an excellent semester! I'm so happy that I didn't listen to my fears and decided to take this class. Some professors may be experts in their field, but not all of them have the gift for teaching. You, however, have that gift! You are able to take complex, lengthy material and make it not only easy to understand but also engaging and relevant. I thoroughly enjoyed this class*."
-
-  > "*Marcio Santetti takes great pride in his work, and you see that in his teaching. He made sure we understood the theory and not just memorization. He took the time to make sure no question was unimportant*."
-  
-  > "*Professor Santetti was extremely well organized and was capable of explaining the course content in a manner understandable for all students. He was extremely helpful when any students experienced any difficulties and encouraged participation. I genuinely wish to take more courses from you. Fantastic instructor in every sense of the word*."
-  
-  > "*This was the most effective professor I've had at the University of Utah. He is very patient with students and is always willing to ask questions. Made my experience at the University of Utah much more fulfilling and it's really nice to know that this professor genuinely cares about his students*."
-  
-  > "*Marcio teaches not to give us a grade but to make us understand. I have learned far more in his class that has been applicable to my work than in any other class that was deemed, 'more difficult.' He cares about students understanding and teaches to them and not just to simply get through the lectures*."
-
 

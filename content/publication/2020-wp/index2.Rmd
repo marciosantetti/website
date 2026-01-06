@@ -21,7 +21,9 @@ links:
   url: https://scholar.google.com/citations?user=bmhnc58AAAAJ&hl=en&oi=ao
 ---
 
+### [The economy-wide rebound effect and U.S. business cycles: A time-varying exercise](https://arxiv.org/abs/2512.20765)
 
+*ArXiV preprint 2512.20765.*
 
 ### [Post-Keynesian vignettes on secular stagnation: From labor suppression to natural growth](https://economics.utah.edu/research/publications/2021_05.pdf)
 
