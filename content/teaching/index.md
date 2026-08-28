@@ -50,17 +50,22 @@ Some anonymous student evaluations:
 
 ### Emerson College
 
-- **EC 320 History of Economic Thought (Adv. Topics)** -- Spring 2025
-
-  - [Syllabus](https://raw.githack.com/marciosantetti/ec320-sp25/main/syllabus/syllabus-ec320-spring25.pdf)
   
-- **EC 320 Game Theory (Adv. Topics)** -- Fall 2025
+- **EC 312 Game Theory** -- Fall 2026/25
 
   - [Syllabus](/teaching/syllabus-ec320-fall25.pdf)
   
-- **EC 203 Principles of Economics** -- Spring 2026, Fall 2025
+- **EC 210 Inflation, Affordability, and Income Inequality in the post-COVID Era** -- Fall 2026
+
+  - [Syllabus]()
+  
+- **EC 203 Principles of Economics** -- Spring 2026, Fall 2026/25
 
   - [Syllabus](https://raw.githack.com/marciosantetti/ec203-sp26/main/syllabus/syllabus-ec203-sp26.pdf)
+  
+- **EC 320 History of Economic Thought (Adv. Topics)** -- Spring 2025
+
+  - [Syllabus](https://raw.githack.com/marciosantetti/ec320-sp25/main/syllabus/syllabus-ec320-spring25.pdf)
 
 - **EC 210 Principles of Macroeconomics (Sp. Topics)** -- Fall 2024, Spring 2025
 
